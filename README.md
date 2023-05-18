@@ -1,16 +1,9 @@
-## Simplifying Syntax-Aware models for Target-oriented Opinion Words Extraction
+### Pytorch implementation of "ONG(S,A) w/o GCN"
 
-This repo contains the official PyTorch implementation on the simplification of the ONG (and BiLSTM+BERT+GCN) model for paper [Trading Syntax Trees for Wordpieces:
-Target-oriented Opinion Words Extraction with Wordpieces and Aspect
-Enhancement]() accepted in the proceedings at [ACL 2023](https://2023.aclweb.org/).
+- Move the "data" directory within the "software" directory
+- Train and evaluate "ONG(S,A) w/o GCN" on the datasets using: 
 
-**The TOWE datasets**: Details on the TOWE Datasets can be found in [(Fan et al., 2019)](https://aclanthology.org/N19-1259.pdf).
+```
+python run.py
+```
 
-### Requirements
-
-- Python 3 (tested on 3.6.13)
-- PyTorch (tested on 1.9.0)
-
-
-### Citation
-If this work is beneficial to you, please cite as:
