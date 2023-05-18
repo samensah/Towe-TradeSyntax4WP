@@ -2,7 +2,7 @@
 
 This repo contains the official PyTorch implementation on the simplification of the ONG (and BiLSTM+BERT+GCN) model for paper [Trading Syntax Trees for Wordpieces:
 Target-oriented Opinion Words Extraction with Wordpieces and Aspect
-Enhancement](https://aclanthology.org/2021.emnlp-main.722.pdf) accepted in the proceedings at [ACL 2023](https://2023.aclweb.org/).
+Enhancement]() accepted in the proceedings at [ACL 2023](https://2023.aclweb.org/).
 
 **The TOWE datasets**: Details on the TOWE Datasets can be found in [(Fan et al., 2019)](https://aclanthology.org/N19-1259.pdf).
 
